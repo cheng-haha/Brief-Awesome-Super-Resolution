@@ -1,5 +1,5 @@
 # Brief-Awesome-Super-Resolution
-AAAI, CVPR, ICCV, ICLR, ICML, NIPS, MM, ECCV (22-23)
+AAAI, CVPR, ICCV, ICLR, ICML, NIPS, MM, ECCV (22-23, **continuously updating...**)
 
 
 ### AAAI
