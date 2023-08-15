@@ -2,7 +2,9 @@
 AAAI, CVPR, ICCV, ICLR, ICML, NIPS, MM, ECCV (22-23)
 
 
+<a name="JsJti"></a>
 ### AAAI
+<a name="NUhik"></a>
 #### 22
 Feature Distillation Interaction Weighting Network for Lightweight Image Super-resolution
 [Best-Buddy GANs for Highly Detailed Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/20030)
@@ -12,7 +14,9 @@ Feature Distillation Interaction Weighting Network for Lightweight Image Super-r
 [SFSRNet: Super-resolution for Single-Channel Audio Source Separation](https://ojs.aaai.org/index.php/AAAI/article/view/21372)
 [Coarse-to-Fine Embedded PatchMatch and Multi-Scale Dynamic Aggregation for Reference-Based Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/20180)
 [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/20236)
+<a name="GuU5e"></a>
 ### CVPR
+<a name="bI5oy"></a>
 #### 22
 BasicVSR++: Improving Video Super-Resolution With Enhanced Propagation and Alignment
 Discrete Cosine Transform Network for Guided Depth Map Super-Resolution
@@ -41,6 +45,7 @@ Task Decoupled Framework for Reference-Based Super-Resolution
 LAR-SR: A Local Autoregressive Model for Image Super-Resolution
 Texture-Based Error Analysis for Image Super-Resolution
 Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution
+<a name="zbZS7"></a>
 #### 23
 Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting
 Spectral Bayesian Uncertainty for Image Super-Resolution
@@ -80,7 +85,9 @@ Consistent Direct Time-of-Flight Video Depth Super-Resolution
 Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution
 Zero-Shot Dual-Lens Super-Resolution
 
+<a name="mbSM8"></a>
 ### MM
+<a name="vDOrk"></a>
 #### 22
 Cross-Modality High-Frequency Transformer for MR Image Super-Resolution
 RepSR: Training Efficient VGG-style Super-Resolution Networks with Structural Re-Parameterization and Batch Normalization
@@ -97,7 +104,9 @@ Rethinking Super-Resolution as Text-Guided Details Generation
 Flexible Hybrid Lenses Light Field Super-Resolution using Layered Refinement
 Geometry-Aware Reference Synthesis for Multi-View Image Super-Resolution
 ICNet: Joint Alignment and Reconstruction via Iterative Collaboration for Video Super-Resolution
+<a name="PEwgw"></a>
 ### ICCV
+<a name="tJ7iQ"></a>
 #### 23
 On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
@@ -111,37 +120,49 @@ Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution
 Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution
 MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution
 
+<a name="UsdRZ"></a>
 ### ECCV
+<a name="MHcij"></a>
 #### 22
 Efficient Long-Range Attention Network for Image Super-Resolution
 A Codec Information Assisted Framework for Efficient Compressed Video Super-Resolution
 Metric Learning Based Interactive Modulation for Real-World Super-Resolution
 Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution
 
+<a name="F5fSR"></a>
 ### ICLR
+<a name="jkV0N"></a>
 #### 22
 Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning
+<a name="i6PT4"></a>
 #### 23
 Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions
 DySR: Adaptive Super-Resolution via Algorithm and System Co-design
 Knowledge Distillation based Degradation Estimation for Blind Super-Resolution
 
+<a name="fprkQ"></a>
 ### ICML
+<a name="fy5Mb"></a>
 #### 22
 MemSR: Training Memory-efficient Lightweight Model for Image Super-Resolution
+<a name="Th5bA"></a>
 #### 23
 Learning Controllable Degradation for Real-World Super-Resolution via Constrained Flows 
 Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution 
 DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models
 
+<a name="l9Idn"></a>
 ### NIPS
+<a name="dRTSg"></a>
 #### 22
 ShuffleMixer: An Efficient ConvNet for Image Super-Resolution
 AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos
 Rethinking Alignment in Video Super-Resolution Transformers
 
 
+<a name="ecdrR"></a>
 ### TPAMI
+<a name="E1JUg"></a>
 #### 22
 Densely Residual Laplacian Super-Resolution
 A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution
