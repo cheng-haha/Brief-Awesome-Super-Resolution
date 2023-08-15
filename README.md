@@ -1,6 +1,7 @@
 # Brief-Awesome-Super-Resolution
-AAAI, CVPR, ICCV, ICLR, ICML, NIPS, MM, ECCV (22-23, _continuously updating..._)
+AAAI, CVPR, ICCV, ICLR, ICML, NIPS, MM, ECCV (22-23)
 
+## _This project is continuously being updated..._
 
 ### AAAI
 #### 22
